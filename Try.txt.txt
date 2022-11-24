@@ -1,4 +1,10 @@
+Adrián Sala Puche 1ºDAM
+
 Edit commit 5
 command --> git add .
+git commit
+git push
+
+Commit 6 -->git add .\6.txt
 git commit
 git push
